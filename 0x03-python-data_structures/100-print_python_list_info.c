@@ -1,10 +1,7 @@
 /*
  * File: 100-print_python_list_info.c
- * Auth: Brennan D Baraban
  */
-
 #include <Python.h>
-
 /**
  * print_python_list_info - Prints basic info about Python lists.
  * @p: A PyObject list.
